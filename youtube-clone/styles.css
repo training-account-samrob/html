@@ -7,9 +7,9 @@
   display: block;
   }
 
-.video-title {
+/* .video-title {
   width: 300px;
-}
+} */
 
 .video-preview {
   width: 300px;
@@ -17,3 +17,13 @@
   vertical-align: top;
   margin-right: 15px;
   }
+
+.channel-picture {
+  display: inline-block;
+  width: 50px;
+}
+
+.video-info {
+  display: inline-block;
+  width: 200px;
+}
