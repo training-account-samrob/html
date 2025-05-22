@@ -4,4 +4,4 @@
 
 ![Youtube Clone](youtube-clone/assets/youtube-clone.png)
 
-### Next start at Lesson 10 @ 2hr:47
+### Next: Continue Lesson 10 @ 3hrs 09min 38secs
