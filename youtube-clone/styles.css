@@ -1,3 +1,6 @@
+p {
+  font-family: roboto, arial;
+}
 .thumbnail {
   width: 300px;
   display: block;
@@ -7,9 +10,9 @@
   display: block;
   }
 
-/* .video-title {
-  width: 300px;
-} */
+.video-title {
+  margin-top: 0;
+}
 
 .video-preview {
   width: 300px;
@@ -21,6 +24,7 @@
 .channel-picture {
   display: inline-block;
   width: 50px;
+  vertical-align: top;
 }
 
 .video-info {
@@ -29,5 +33,10 @@
 }
 
 .profile-pic {
-  width: 100%;
+  width: 40px;
+  border-radius: 50px;
+}
+
+.thumbnail-row {
+  margin-bottom: 12px;
 }
