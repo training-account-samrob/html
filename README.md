@@ -4,4 +4,4 @@
 
 ![Youtube Clone](youtube-clone/assets/youtube-clone.png)
 
-### Next: Start Lesson 11 @ 3hrs 17min 00secs
+### Next: Start Lesson 12 (flexbox) @ 3hrs 44min 00secs
